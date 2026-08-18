@@ -1,0 +1,6 @@
+station_id,latitude,longitude,zone
+ST01,21.601,79.301,core
+ST02,21.615,79.320,core
+ST03,21.590,79.295,buffer
+ST04,21.605,79.340,village
+ST05,21.580,79.310,core
